@@ -1,0 +1,47 @@
+﻿Entities for Online Movie Ticket Booking:-
+
+
+movie:- 
+Movie Name
+Movieid
+Language
+movie cast
+releaseDate                                                                          
+
+
+show:-
+Show id
+screenNo
+duration 
+showtime 
+language
+
+
+ticket:-
+Ticket no 
+timing 
+seat no 
+price 
+date 
+screenNo 
+
+
+customer:-
+customerid 
+customername 
+email id 
+password 
+phone no
+
+
+theatre:-
+Theatre id 
+location 
+theatre name
+
+
+
+
+admin
+Admin id 
+password
